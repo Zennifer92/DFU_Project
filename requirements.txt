@@ -1,0 +1,6 @@
+numpy==1.24.4
+scanpy
+scvi-tools
+seaborn
+pandas
+leidenalg
